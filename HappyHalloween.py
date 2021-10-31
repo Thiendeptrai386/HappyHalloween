@@ -1,6 +1,6 @@
 from turtle import *
 
-print('Happy Halloween... ')
+print('Happy Halloween.. ')
 title('Happy Halloween') 
 bgcolor("black")
 
